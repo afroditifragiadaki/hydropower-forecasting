@@ -1,0 +1,4 @@
+id,name,installed_capacity_MW,pumping_MW,type,country_code,lat,lon,dam_height_m,volume_Mm3,storage_capacity_MWh,avg_annual_generation_GWh,pypsa_id,GEO,WRI
+H136,Kastraki KASTRAKI - Kastraki Hydroelectric Power Plant Greece,320.0,,HDAM,EL,38.7415,21.3642,95.7,950.0,25000.0,930.0,2939.0,42793.0,
+H139,Sfikia SFIKIA - Sfikia Hydroelectric Power Plant Greece,315.0,315.0,HPHS,EL,40.3856573,22.2113777,81.0,18.0,1320.0,,2893.0,42802.0,
+H1429,EDESSAIOS,19.0,,HROR,EL,40.804001,22.056684,,,,,,,
